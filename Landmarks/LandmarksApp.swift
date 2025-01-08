@@ -2,7 +2,7 @@
 //  LandmarksApp.swift
 //  Landmarks
 //
-//  Created by Isabelle Velasco on 1/8/25.
+//  Created by Izzyv on 1/8/25.
 //
 
 import SwiftUI
